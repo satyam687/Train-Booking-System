@@ -1,3 +1,16 @@
+<img width="1117" height="589" alt="Screenshot (514)" src="https://github.com/user-attachments/assets/348ee396-9ed6-4f10-9101-354c8d89f713" />
+
+<img width="1164" height="544" alt="Screenshot (516)" src="https://github.com/user-attachments/assets/271ef781-562b-4b10-a775-d9b3fdd65dab" />
+
+
+
+
+
+
+
+
+
+
 # RailBook AI — Smart Train Booking System
 
 A production-style full-stack railway reservation platform built with **React 19 (Vite + Tailwind CSS)**, **Django REST Framework**, **SQLite3**, and **Machine Learning** for intelligent train recommendations and demand forecasting.

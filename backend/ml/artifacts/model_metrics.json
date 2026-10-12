@@ -1,0 +1,24 @@
+{
+  "version": "v1.2-randomforest",
+  "algorithm": "RandomForestRegressor (25 bootstrap trees, depth 7)",
+  "trained_at": "2026-10-10T19:59:23.986635",
+  "metrics": {
+    "mae": 5.521,
+    "rmse": 6.682,
+    "r2_score": 0.7954
+  },
+  "dataset": {
+    "samples_count": 2500,
+    "features": [
+      "route_hash",
+      "class_code_val",
+      "day_of_week",
+      "is_weekend",
+      "month",
+      "is_holiday",
+      "days_to_departure"
+    ],
+    "is_synthetic_demonstration": true,
+    "disclaimer": "Trained on reproducible synthetic dataset modeled after passenger demand trends for development & demonstration."
+  }
+}
